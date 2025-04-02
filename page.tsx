@@ -7,7 +7,7 @@ export default function ClubLandingPage() {
     <div
       className="min-h-screen w-full flex flex-col items-center justify-center p-4 bg-cover bg-center"
       style={{
-        backgroundImage: 'url("/images/background.png")',
+        backgroundImage: 'url("/background.png")',
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}
